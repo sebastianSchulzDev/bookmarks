@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1b9d361-3ba9-4dd4-9641-08809f5b2de1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/account/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/account/templates/account/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/account/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/account/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/templates/account/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/templates/registration/logged_out.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/templates/registration/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/account/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/account/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/account/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/account/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookmarks/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarks/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookmarks/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarks/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,7 +80,7 @@
       <updated>1572447716797</updated>
       <workItem from="1572447719448" duration="1016000" />
       <workItem from="1572593296054" duration="947000" />
-      <workItem from="1572678757362" duration="2820000" />
+      <workItem from="1572678757362" duration="6444000" />
     </task>
     <servers />
   </component>
