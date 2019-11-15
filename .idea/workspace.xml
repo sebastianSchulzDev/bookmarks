@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1b9d361-3ba9-4dd4-9641-08809f5b2de1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/templates/bookmarklet_launcher.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/templates/account/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/account/templates/account/dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookmarks/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarks/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/static/js/bookmarklet.js" beforeDir="false" afterPath="$PROJECT_DIR$/images/static/js/bookmarklet.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/templates/bookmarklet_launcher.js" beforeDir="false" afterPath="$PROJECT_DIR$/images/templates/bookmarklet_launcher.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +29,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\bookmarks\images\static\js" />
+      <recent name="D:\PycharmProjects\bookmarks\images\static\css" />
+      <recent name="D:\PycharmProjects\bookmarks\images\static" />
       <recent name="D:\PycharmProjects\bookmarks\account\templates\account" />
       <recent name="D:\PycharmProjects\bookmarks\account\templates\registration" />
     </key>
@@ -93,7 +98,9 @@
       <workItem from="1573460216110" duration="1174000" />
       <workItem from="1573574881230" duration="3115000" />
       <workItem from="1573643018053" duration="5175000" />
-      <workItem from="1573737240065" duration="970000" />
+      <workItem from="1573737240065" duration="1224000" />
+      <workItem from="1573801407996" duration="3830000" />
+      <workItem from="1573805624004" duration="2854000" />
     </task>
     <servers />
   </component>

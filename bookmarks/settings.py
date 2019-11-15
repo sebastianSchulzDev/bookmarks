@@ -25,7 +25,7 @@ SECRET_KEY = 'k!d6+m#9#oqebcr1f=8vn9-0dg&0e^u(nk&t-df_a86taw0dgn'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['moja-witryna.pl', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['moja-witryna.pl', 'localhost', '127.0.0.1', '7c71f993.ngrok.io']
 
 
 # Application definition
