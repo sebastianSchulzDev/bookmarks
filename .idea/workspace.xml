@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1b9d361-3ba9-4dd4-9641-08809f5b2de1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/templates/images/image/detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookmarks/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarks/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/images/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/static/js/bookmarklet.js" beforeDir="false" afterPath="$PROJECT_DIR$/images/static/js/bookmarklet.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/templates/bookmarklet_launcher.js" beforeDir="false" afterPath="$PROJECT_DIR$/images/templates/bookmarklet_launcher.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/images/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/images/views.py" afterDir="false" />
     </list>
@@ -106,6 +100,8 @@
       <workItem from="1573801407996" duration="3830000" />
       <workItem from="1573805624004" duration="3316000" />
       <workItem from="1573980512877" duration="3540000" />
+      <workItem from="1573985386810" duration="565000" />
+      <workItem from="1574442216174" duration="769000" />
     </task>
     <servers />
   </component>
